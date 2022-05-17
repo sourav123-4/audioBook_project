@@ -16,6 +16,9 @@ const Header = () => {
                         <span className='menu-item desktop-inline-block'><a href='#' style={{color: "#0085e6"}}>Try Instaread</a></span>
                         <span className='menu-item desktop-inline-block'><a href='https://instaread.co/login'>Login</a></span>
                     </div>
+                    <div className=''>
+
+                    </div>
                 </div>
             </header>
         </div>
